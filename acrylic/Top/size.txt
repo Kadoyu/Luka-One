@@ -1,0 +1,2 @@
+Width x Length (mm)
+105 x 185
