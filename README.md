@@ -17,4 +17,4 @@ Pico Fighting Board用のUF2ファイルを使用してね。
 [https://github.com/FeralAI/GP2040/releases](https://github.com/FeralAI/GP2040/releases)
 
 ## License
-The source code is licensed MIT.
+This product is licensed [CC-BY](https://creativecommons.org/licenses/by/4.0/legalcode.txt).
